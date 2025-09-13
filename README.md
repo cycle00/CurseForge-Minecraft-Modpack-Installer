@@ -1,4 +1,4 @@
-# CurseForge Minecraft Modpack Downloader
+# CurseForge Minecraft Modpack Installer
 Just a quick python script I wrote to automate the process of downloading a Minecraft modpack from CurseForge without actually having to install the CurseForge Launcher. I haven't done much extensive testing but it did successfully install MC Eternal 2 using this and the vanilla launcher.
 ## Usage
 This script requires you to have installed:
